@@ -6,7 +6,7 @@
           <RouterLink id="link" to="/"> HOME |</RouterLink>
           <RouterLink id="link" to="/login"> LOGIN |</RouterLink>
           <RouterLink id="link" to="/script-editor"> SCRIPT EDITOR |</RouterLink>
-          <RouterLink id="link" to="/lobby"> Lobby</RouterLink>
+          <RouterLink id="link" to="/lobby"> LOBBY </RouterLink>
         </div>
         <div class="right-links">
           <RouterLink id="link" to="/register"> REGISTER |</RouterLink>
